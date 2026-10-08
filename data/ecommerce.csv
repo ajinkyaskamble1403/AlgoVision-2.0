@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+P001,Laptop,Electronics,65000,45
+P002,Smartphone,Electronics,32000,80
+P003,Headphones,Audio,3500,150
+P004,Tablet,Electronics,28000,60
+P005,Smartwatch,Wearables,7000,100
+P006,Keyboard,Accessories,2500,120
+P007,Monitor,Electronics,18000,55
+P008,Mouse,Accessories,1200,200
+P009,Camera,Photography,45000,35
+P010,Speaker,Audio,5000,90

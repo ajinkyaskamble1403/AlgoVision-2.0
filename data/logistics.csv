@@ -1,0 +1,11 @@
+ShipmentID,Source,Destination,Distance,Weight,Priority
+S001,Mumbai,Pune,150,500,3
+S002,Mumbai,Nashik,170,300,2
+S003,Pune,Nagpur,720,800,1
+S004,Nashik,Mumbai,170,250,3
+S005,Mumbai,Surat,280,600,2
+S006,Pune,Mumbai,150,450,1
+S007,Mumbai,Ahmedabad,530,900,2
+S008,Nagpur,Pune,720,700,1
+S009,Surat,Mumbai,280,350,3
+S010,Nashik,Pune,210,200,2
